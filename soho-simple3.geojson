@@ -5043,13 +5043,13 @@
 { "type": "Feature", "properties": { "full_id": "w1363276092", "osm_id": "1363276092", "osm_type": "way", "building:min_levels": "1363276092", "reference": null, "ref": null, "name": null, "highway": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1313838, 51.5181082 ], [ -0.1312765, 51.5179951 ], [ -0.1311628, 51.5180368 ], [ -0.1312702, 51.5181499 ], [ -0.1313838, 51.5181082 ] ] } },
 { "type": "Feature", "properties": { "full_id": "w1363548951", "osm_id": "1363548951", "osm_type": "way", "building:min_levels": "1363548951", "reference": null, "ref": null, "name": null, "highway": "footway" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1312351, 51.5181635 ], [ -0.1312145, 51.5181426 ], [ -0.1311939, 51.5181216 ], [ -0.1307085, 51.5176307 ], [ -0.1310762, 51.5174875 ], [ -0.131101, 51.5174778 ], [ -0.1316116, 51.5180011 ] ] } },
 { "type": "Feature", "properties": { "full_id": "w1363624957", "osm_id": "1363624957", "osm_type": "way", "building:min_levels": "1363624957", "reference": null, "ref": null, "name": null, "highway": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1377424, 51.5187792 ], [ -0.1376572, 51.5188099 ], [ -0.137591, 51.5188337 ], [ -0.1375252, 51.5187656 ], [ -0.1376712, 51.518709 ], [ -0.1377424, 51.5187792 ] ] } },
-{ "type": "Feature", "properties": { "full_id": "w1363624958", "osm_id": "1363624958", "osm_type": "way", "building:min_levels": "1363624958", "reference": null, "ref": null, "name": null, "highway": "service" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1372406, 51.5191442 ], [ -0.1372928, 51.5191195 ], [ -0.1373351, 51.5191001 ] ] } }
-]
-},{
+{ "type": "Feature", "properties": { "full_id": "w1363624958", "osm_id": "1363624958", "osm_type": "way", "building:min_levels": "1363624958", "reference": null, "ref": null, "name": null, "highway": "service" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1372406, 51.5191442 ], [ -0.1372928, 51.5191195 ], [ -0.1373351, 51.5191001 ] ] } },{
 "type": "FeatureCollection",
 "name": "soho_pn2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": 1, "name": "Soho Square" }, "geometry": { "type": "Point", "coordinates": [ -0.132092678207697, 51.51552673423015 ] } }
+]
+}
 ]
 }
